@@ -165,5 +165,3 @@ eslint 검색 후, 맨아래쪽에 ESLint:validate 부분에 edit settings.json�
 Prettier의 플러그인은 끄기.
 
 자잘한 에러들은 다 처리 했다.
-코드에 빨간 밑줄에 에러로 되어있는건 .eslintrc.js에 extends에 '@typescript-eslint/parser' 를 추가하니까 사라졌다.
-
