@@ -1,0 +1,26 @@
+현대 웹 개발의 절차)
+요구사항 -> 서비스 기획 -> UI, UX 상세 설계 -> GUI 디자인 -> 퍼블리싱 -> 백엔드 API 개발 -> 프론트엔드 개발 -> QA
+
+프론트엔드 개발자의 역할)
+	- 화면단 코드 작성.
+	- 기획, 디자인, 퍼블리싱, 백엔드 개발자와 소통.
+
+사용 할 API 문서)
+swagger / API 문서를 자동으로 제작해 주는 도구. swagger.io
+
+Dev Stack)
+	- Vue.js 2.6.10
+	- Vue Router
+	- Vuex
+	- Axios
+	- Vue Test Utils
+	
+개발 환경)
+	- Chrome
+	- Git
+	- VSCode
+	- Node.js LTS
+	- Vue.js Dev Tools
+
+VSCode Plugin)
+ctrl+shift+p => 
